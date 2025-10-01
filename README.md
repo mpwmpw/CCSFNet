@@ -19,3 +19,5 @@
 ## 6. CCSFNet is efficiently deployed on the Jetson Nano edge device. We have also open-sourced some Python packages that may be useful for edge deployment.
 
 ## 7. Thanks to the open source of [ultralytics](https://docs.ultralytics.com/zh), many tasks have become simpler and more traceable.
+
+## 8. A more detailed interpretation of the research can be found in future papers.
