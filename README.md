@@ -1,6 +1,6 @@
 ## 1.This is the overall architecture of CCSFNet.
 
-![Logo](p1.png)
+<img src="p1.png" width="45%" style="display:inline-block;">
 
 ## 2. To achieve a deep learning model for safflower maturity detection that balances accuracy and real-time performance, we designed a new attention mechanism (CAM) that additionally focuses on the center region and a lightweight feature extraction module (C3k2-e). CAM not only improves safflower detection, but more specifically, it focuses on improving performance by focusing on the center region. C3k2-e leverages depthwise separable convolutions to achieve model lightweightness and improve performance on edge devices.
 
