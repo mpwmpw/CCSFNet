@@ -12,7 +12,7 @@
 
 ## 4. Below are our detection results on the large red flower dataset.
 
-<img src="p5.png" width="45%" style="display:inline-block;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="p6.png" width="45%" style="display:inline-block;">
+<img src="p5.jpg" width="45%" style="display:inline-block;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="p6.jpg" width="45%" style="display:inline-block;">
 
 ## 5. Due to project process reasons, we cannot make the entire safflower dataset public now, but we have provided a small benchmark that you can download to perform performance testing of the proposed method.
 
