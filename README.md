@@ -8,7 +8,7 @@
 
 ## 3. Still trying to figure out your loss function? Or struggling with the time it takes to optimize hyperparameters for your deep learning model? FastGA might be able to help! FastGA eliminates the mutation phase in genetic algorithms, significantly speeding up overall parameter tuning without sacrificing performance. However, this may only be suitable for object detection tasks with a small number of categories and minimal scale variation.
 
-<img src="p4.png" width="45%" style="display:inline-block;">
+<img src="FastGA.png">
 
 ## 4. Below are our detection results on the large red flower dataset.
 
