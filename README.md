@@ -16,8 +16,6 @@
 
 ## 5. Due to project process reasons, we cannot make the entire safflower dataset public now, but we have provided a small benchmark that you can download to perform performance testing of the proposed method.
 
-![Logo](p7.png)
-
 ## 6. CCSFNet is efficiently deployed on the Jetson Nano edge device. We have also open-sourced some Python packages that may be useful for edge deployment.
 
 ## 7. Thanks to the open source of [ultralytics](https://docs.ultralytics.com/zh), many tasks have become simpler and more traceable.
